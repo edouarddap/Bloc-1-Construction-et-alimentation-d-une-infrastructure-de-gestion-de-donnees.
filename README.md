@@ -1,6 +1,8 @@
 # Jedha_Kayak_Project-
 Bloc n°1 - Construction et alimentation d'une infrastructure de gestion de donnée. 
 
+Construction d'une infrastructure Cloud accueillant des données Big Data (collecte de données web, intégration des données dans un Data Lake, nettoyage et chargement des données dans une base de données type AWS Redshift par traitement parallélisé si nécessaire via la construction d'un processus ETL).
+
 # Kayak_Project - Plan your trip with Kayak
 Company's description 📇
 
