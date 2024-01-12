@@ -1,7 +1,7 @@
 # Jedha_Kayak_Project-
 Bloc n°1 - Construction et alimentation d'une infrastructure de gestion de donnée. 
 
-## Kayak_Project - Plan your trip with Kayak
+# Kayak_Project - Plan your trip with Kayak
 Company's description 📇
 
 Kayak is a travel search engine that helps user plan their next trip at the best price.
