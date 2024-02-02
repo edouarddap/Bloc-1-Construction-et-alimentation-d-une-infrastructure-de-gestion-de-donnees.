@@ -8,7 +8,7 @@ Données nettoyées stockées dans un compartiment S3 et transférées vers l'in
 Base de données SQL interrogée pour la sélection des meilleures villes en fonction de la météo
 Fourniture de cartes de certains emplacements de villes et d'hôtels illustrant les températures quotidiennes et les fourchettes de prix des hôtels
 
-APIs, BeautifulSoup, Boto3, AWS S3, AWS RDS, SQL, SQLAlchemy, Plotly
+Bibliothèqyes: APIs, BeautifulSoup, Boto3, AWS S3, AWS RDS, SQL, SQLAlchemy, Plotly
 
 # Kayak_Project - Plan your trip with Kayak
 Company's description 📇
