@@ -3,12 +3,9 @@
 
 Construction d'une infrastructure Cloud accueillant des données Big Data (collecte de données web, intégration des données dans un Data Lake, nettoyage et chargement des données dans une base de données type AWS Redshift par traitement parallélisé si nécessaire via la construction d'un processus ETL).
 
-Hôtels et informations météorologiques récupérés pour une liste de villes donnée
-Données nettoyées stockées dans un compartiment S3 et transférées vers l'instance de base de données AWS RDS
-Base de données SQL interrogée pour la sélection des meilleures villes en fonction de la météo
-Fourniture de cartes de certains emplacements de villes et d'hôtels illustrant les températures quotidiennes et les fourchettes de prix des hôtels
+Les données sur les hôtels et les informations météorologiques ont été collectées pour une liste spécifique de villes. Après avoir été nettoyées, ces données ont été stockées dans un compartiment S3 avant d'être transférées vers une instance de base de données AWS RDS. La base de données SQL est ensuite interrogée pour identifier les meilleures villes en fonction des conditions météorologiques. Enfin, des cartes sont générées pour certains emplacements de villes et d'hôtels, mettant en évidence les températures quotidiennes et les fourchettes de prix des hébergements.
 
-_Bibliothèques: APIs, BeautifulSoup, Boto3, AWS S3, AWS RDS, SQL, SQLAlchemy, Plotly_
+_Bibliothèques: APIs, BeautifulSoup, Boto3, AWS S3, AWS RDS, SQL, SQLAlchemy, Plotly
 
 # Kayak_Project - Plan your trip with Kayak
 Company's description 📇
