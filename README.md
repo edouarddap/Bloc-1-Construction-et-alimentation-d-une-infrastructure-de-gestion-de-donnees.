@@ -1,4 +1,4 @@
-# Jedha_Kayak_Project-
+# Jedha - Bloc 1
 
 
 Construction d'une infrastructure Cloud accueillant des données Big Data (collecte de données web, intégration des données dans un Data Lake, nettoyage et chargement des données dans une base de données type AWS Redshift).
